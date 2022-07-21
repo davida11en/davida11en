@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**davida11en/davida11en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**davida11en/davida11en** is a ✨ _special_ ✨ repository because davida11en is a special person.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=davida11en&color=pink)
+![](https://komarev.com/ghpvc/?username=davida11en&color=ff69b4)
