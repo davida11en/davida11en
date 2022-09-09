@@ -4,8 +4,10 @@ I'm an Startup-Tech Sales Account Manager turned Mathematics Teacher turned Soft
 
 Pivoting from selling technical solutions, to problem solving with students in the classroom, to problem solving to engage users through code!
 
-![](https://komarev.com/ghpvc/?username=davida11en&color=ff69b4)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davida11en&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![](https://komarev.com/ghpvc/?username=davida11en&color=ff69b4)
 
 ## Connect with me!
 <a href="https://www.linkedin.com/in/david-allen-asencio-9107b0122/" target="_blank" >
