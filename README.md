@@ -1,6 +1,6 @@
 ### Hi there I'm David-Allen! 👋
 
-I'm a Startup Sales Account-Manager turned Mathematics Teacher turned Software Engineer!
+I'm a Sales Account-Manager turned Mathematics Teacher turned Software Engineer!
 
 Pivoting from selling technical solutions, to problem solving with students in the classroom, to problem solving to engage users through code!
 
